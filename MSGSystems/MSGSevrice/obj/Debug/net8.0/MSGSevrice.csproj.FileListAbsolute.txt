@@ -1,0 +1,14 @@
+E:\River\.Code\C#\MSGSystems\MSGSevrice\bin\Debug\net8.0\MSGSevrice.exe
+E:\River\.Code\C#\MSGSystems\MSGSevrice\bin\Debug\net8.0\MSGSevrice.deps.json
+E:\River\.Code\C#\MSGSystems\MSGSevrice\bin\Debug\net8.0\MSGSevrice.runtimeconfig.json
+E:\River\.Code\C#\MSGSystems\MSGSevrice\bin\Debug\net8.0\MSGSevrice.dll
+E:\River\.Code\C#\MSGSystems\MSGSevrice\bin\Debug\net8.0\MSGSevrice.pdb
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.AssemblyInfoInputs.cache
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.AssemblyInfo.cs
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.csproj.CoreCompileInputs.cache
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.dll
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\refint\MSGSevrice.dll
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.pdb
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\MSGSevrice.genruntimeconfig.cache
+E:\River\.Code\C#\MSGSystems\MSGSevrice\obj\Debug\net8.0\ref\MSGSevrice.dll

@@ -1,0 +1,14 @@
+E:\River\.Code\C#\MSGSystems\Tests\bin\Debug\net8.0\Tests.exe
+E:\River\.Code\C#\MSGSystems\Tests\bin\Debug\net8.0\Tests.deps.json
+E:\River\.Code\C#\MSGSystems\Tests\bin\Debug\net8.0\Tests.runtimeconfig.json
+E:\River\.Code\C#\MSGSystems\Tests\bin\Debug\net8.0\Tests.dll
+E:\River\.Code\C#\MSGSystems\Tests\bin\Debug\net8.0\Tests.pdb
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.AssemblyInfoInputs.cache
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.AssemblyInfo.cs
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.csproj.CoreCompileInputs.cache
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.dll
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\refint\Tests.dll
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.pdb
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
+E:\River\.Code\C#\MSGSystems\Tests\obj\Debug\net8.0\ref\Tests.dll
